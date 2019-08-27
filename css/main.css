@@ -50,8 +50,15 @@ ul.posts li {
 }
 
 .center {
-    display: block;
+    display: table;
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
-    --width: 50%;
   }
+
+.cv-body-section {
+    border-top: 1px solid #d5d5d5;
+}
+.cv-sub-section-header {
+    font-weight: bold;
+}
