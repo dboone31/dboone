@@ -55,3 +55,10 @@ ul.posts li {
     margin-left: auto;
     margin-right: auto;
   }
+
+.cv-body-section {
+    border-top: 1px solid #d5d5d5;
+}
+.cv-sub-section-header {
+    font-weight: bold;
+}
