@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "David Boone, Data Analytics Manger & Entreprenuer"
+title: "David Boone, Creator"
 date: 2019-05-08
 ---
 
